@@ -1,6 +1,8 @@
 Readme
 ======
 
+**IMPORTANT**: Deprecated location. Moved to [nsf-zerotier-tools](https://github.com/amotus/nsf-zerotier-tools).
+
 Some zerotier admin tools to support [nixos-secure-factory] based projects.
 
 
